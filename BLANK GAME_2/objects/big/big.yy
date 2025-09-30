@@ -28,8 +28,8 @@
   "physicsSensor":false,
   "physicsShape":0,
   "physicsShapePoints":[
-    {"x":58.0,"y":69.0,},
-    {"x":55.0,"y":69.0,},
+    {"x":158.0,"y":103.0,},
+    {"x":74.0,"y":103.0,},
   ],
   "physicsStartAwake":true,
   "properties":[],
@@ -37,8 +37,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite1_1",
-    "path":"sprites/Sprite1_1/Sprite1_1.yy",
+    "name":"Sprite10",
+    "path":"sprites/Sprite10/Sprite10.yy",
   },
   "spriteMaskId":null,
   "visible":true,
