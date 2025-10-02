@@ -10,3 +10,4 @@ if (state == PaddleState.Idle) {
 		physics_apply_torque(-5);
 		//show_debug_message("idle");
 }
+

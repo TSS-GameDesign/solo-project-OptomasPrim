@@ -35,16 +35,17 @@
   },
   "name":"BLANK GAME_2",
   "resources":[
+    {"id":{"name":"ball","path":"objects/ball/ball.yy",},},
     {"id":{"name":"big","path":"objects/big/big.yy",},},
     {"id":{"name":"bounce_box","path":"objects/bounce_box/bounce_box.yy",},},
     {"id":{"name":"bumper","path":"objects/bumper/bumper.yy",},},
     {"id":{"name":"left_paddle","path":"objects/left_paddle/left_paddle.yy",},},
     {"id":{"name":"mainmenu_ball","path":"objects/mainmenu_ball/mainmenu_ball.yy",},},
-    {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},},
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},},
     {"id":{"name":"Object3","path":"objects/Object3/Object3.yy",},},
     {"id":{"name":"Object8","path":"objects/Object8/Object8.yy",},},
     {"id":{"name":"right_paddle","path":"objects/right_paddle/right_paddle.yy",},},
+    {"id":{"name":"start","path":"objects/start/start.yy",},},
     {"id":{"name":"main_menu","path":"rooms/main_menu/main_menu.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"box","path":"sprites/box/box.yy",},},
@@ -68,8 +69,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"main_menu","path":"rooms/main_menu/main_menu.yy",},},
+    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
