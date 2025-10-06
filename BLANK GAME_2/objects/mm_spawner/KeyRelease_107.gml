@@ -1,0 +1,1 @@
+instance_create_layer(room.main_menu, mm_spawner.x, mm_spawner.y, mainmenu_ball)
