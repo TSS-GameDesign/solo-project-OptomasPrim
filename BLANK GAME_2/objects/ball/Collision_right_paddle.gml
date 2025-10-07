@@ -1,4 +1,3 @@
-if other.state == PaddleState.Active {
-	phy_speed_y = phy_speed_y * r_horizon_mult;
+if other.state == PaddleState.Active{
+	phy_linear_velocity_y =- 1000
 }
-	

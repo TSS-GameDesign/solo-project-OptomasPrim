@@ -7,7 +7,7 @@ enum PaddleState {
 
 state = PaddleState.Idle;
 
-max_left_angle = 20
+max_left_angle = 30
 base_left_angle = -30
 
 //max_right_angle = -20
