@@ -2,9 +2,9 @@
 state = PaddleState.Active;
 phy_angular_velocity = -2000
 
-if image_angle == 30 {
+if phy_rotation == 30 {
 	show_debug_message("limit reached")
-	phy_angular_velocity = 0
+	phy_angular_velocity += 2000
 	phy_rotation = 20
 }
 //show_debug_message("F down")
