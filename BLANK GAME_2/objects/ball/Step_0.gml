@@ -5,3 +5,9 @@ if (keyboard_check_pressed(vk_space)) {
     parry_pressed = false;
 }
 
+if place_meeting(x, y, scan) {
+	instance_destroy(ball)
+}
+
+
+
