@@ -1,0 +1,1 @@
+draw_text_ext(15, 15,string(global.lvl_score), 0, 6 )

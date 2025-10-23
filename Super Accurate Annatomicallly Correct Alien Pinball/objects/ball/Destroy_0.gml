@@ -1,0 +1,1 @@
+global.mult = 1
