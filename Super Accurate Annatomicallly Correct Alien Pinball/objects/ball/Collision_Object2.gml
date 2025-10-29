@@ -1,1 +1,1 @@
-audio_play_sound(choose(alienhit1,alienhit2,alienhit3,alienhit4,alienhit5,alienhit6,alienhit7), 1, false)
+audio_play_sound(choose(alienhit1,alienhit2,alienhit3,alienhit4,alienhit5,alienhit6,alienhit7, alienhit8), 1, false)

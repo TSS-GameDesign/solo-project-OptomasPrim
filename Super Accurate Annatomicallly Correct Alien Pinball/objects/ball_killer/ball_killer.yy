@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"Object15",
+  "%Name":"ball_killer",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"ball","path":"objects/ball/ball.yy",},"eventNum":0,"eventType":4,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Object15",
+  "name":"ball_killer",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -30,9 +30,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Sprite15",
-    "path":"sprites/Sprite15/Sprite15.yy",
+    "name":"box_1",
+    "path":"sprites/box_1/box_1.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

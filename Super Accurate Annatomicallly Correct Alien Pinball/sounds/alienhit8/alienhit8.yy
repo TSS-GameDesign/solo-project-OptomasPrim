@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"bumper_hit",
+  "%Name":"alienhit8",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,17 +9,17 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":0.8848753,
-  "name":"bumper_hit",
+  "duration":-1.0,
+  "name":"alienhit8",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"alien_sounds",
+    "path":"folders/Sounds/alien_sounds.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"bumper_hit.wav",
+  "soundFile":"alienhit8.wav",
   "type":0,
   "volume":1.0,
 }

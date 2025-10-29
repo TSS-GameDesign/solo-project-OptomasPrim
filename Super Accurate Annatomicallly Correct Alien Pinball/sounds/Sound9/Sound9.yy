@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"bumper_hit",
+  "%Name":"Sound9",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,8 +9,8 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":0.8848753,
-  "name":"bumper_hit",
+  "duration":0.0,
+  "name":"Sound9",
   "parent":{
     "name":"Sounds",
     "path":"folders/Sounds.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"bumper_hit.wav",
+  "soundFile":"",
   "type":0,
   "volume":1.0,
 }
