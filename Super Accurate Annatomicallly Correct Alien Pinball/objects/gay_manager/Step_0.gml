@@ -3,4 +3,3 @@ if global.ball_count < 1{
 	room_goto(main_menu)	
 }
 
-show_debug_message(string(global.ball_count))

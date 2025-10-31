@@ -9,4 +9,12 @@ if place_meeting(x, y, ball_killer) {
 	instance_destroy(ball)
 }
 
+if left_paddle.state = PaddleState.Active {
+	launch_ready = true
+	launch_ready = false
+}
 
+if right_paddle.state = PaddleState.Active {
+	launch_ready = true
+	launch_ready = false
+}

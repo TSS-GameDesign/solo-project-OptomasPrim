@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"bumper_hit",
+  "%Name":"combo_sfx",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,8 +9,8 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":0.8848753,
-  "name":"bumper_hit",
+  "duration":1.0681179,
+  "name":"combo_sfx",
   "parent":{
     "name":"Sounds",
     "path":"folders/Sounds.yy",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"bumper_hit.wav",
+  "soundFile":"combo_sfx.mp3",
   "type":0,
-  "volume":0.5,
+  "volume":1.0,
 }
