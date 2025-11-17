@@ -1,0 +1,1 @@
+sprite_index = choose(shopkeep_sprites, shopkeep_sprites)

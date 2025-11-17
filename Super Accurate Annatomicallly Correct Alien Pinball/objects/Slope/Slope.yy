@@ -1,17 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"Object3",
+  "%Name":"Slope",
   "eventList":[],
   "managed":true,
-  "name":"Object3",
+  "name":"Slope",
   "overriddenProperties":[],
   "parent":{
     "name":"Wall",
     "path":"folders/Objects/Wall.yy",
   },
   "parentObjectId":{
-    "name":"Object2",
-    "path":"objects/Object2/Object2.yy",
+    "name":"Wall",
+    "path":"objects/Wall/Wall.yy",
   },
   "persistent":false,
   "physicsAngularDamping":0.1,
