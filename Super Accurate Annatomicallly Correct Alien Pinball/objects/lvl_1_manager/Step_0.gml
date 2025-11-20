@@ -1,6 +1,15 @@
-if (room == lvl_1) and (global.score >= 150000) and (global.ball_count < 1){
-	room_goto(shop)
+
+
+if (global.ball_count < 1) {
+	score_time = true
 }
-else if (global.ball_count < 1){
-	room_goto(main_menu)
+
+if score_time = true{
+	if global.score >= 150000{
+		global.monay = global.score / 10000
+		room_goto(shop)
+	}
+	if global.score < 150000{
+		room_goto(main_menu)
+	}
 }

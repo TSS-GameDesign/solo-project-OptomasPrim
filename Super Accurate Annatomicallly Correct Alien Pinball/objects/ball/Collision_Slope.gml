@@ -1,1 +1,1 @@
-combo = 0
+global.combo = 0

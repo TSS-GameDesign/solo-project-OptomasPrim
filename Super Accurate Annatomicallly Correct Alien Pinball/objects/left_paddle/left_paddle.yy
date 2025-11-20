@@ -28,9 +28,9 @@
   "physicsSensor":false,
   "physicsShape":1,
   "physicsShapePoints":[
-    {"x":0.0,"y":-1.0,},
-    {"x":120.0,"y":-1.0,},
-    {"x":120.0,"y":32.0,},
+    {"x":0.0,"y":4.0,},
+    {"x":185.0,"y":4.0,},
+    {"x":185.0,"y":32.0,},
     {"x":0.0,"y":32.0,},
   ],
   "physicsStartAwake":true,
@@ -39,8 +39,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"left",
-    "path":"sprites/left/left.yy",
+    "name":"Sprite25",
+    "path":"sprites/Sprite25/Sprite25.yy",
   },
   "spriteMaskId":null,
   "visible":true,

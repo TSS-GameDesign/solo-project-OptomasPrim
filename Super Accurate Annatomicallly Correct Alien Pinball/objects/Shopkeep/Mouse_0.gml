@@ -1,1 +1,1 @@
-sprite_index = choose(shopkeep_sprites, shopkeep_sprites)
+sprite_index = choose(Sprite22, Sprite23)

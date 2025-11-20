@@ -7,7 +7,7 @@ l_horizon_mult = random_range(0.9,1.1) * random_range(-0.01, 1);
 
 launch_ready = false;
 
-combo = 0;
+global.combo = 0;
 last_combo_sound = -1;
 
 

@@ -1,1 +1,3 @@
-lvl_1 = [Lvl1_X, Lvl1_big_star, Lvl1_spike, Lvl1_pinballception]
+
+score_time = false
+level_clear = false

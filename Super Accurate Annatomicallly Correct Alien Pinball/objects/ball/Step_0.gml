@@ -13,17 +13,17 @@ if right_paddle.state = PaddleState.Active {
 }
 
 // if combo hits a multiple of 5 (but not 0) AND it's different from the last milestone
-if (combo > 0 && combo % 5 == 0 && combo != last_combo_sound) {
+if (global.combo > 0 && global.combo % 5 == 0 && global.combo != last_combo_sound) {
     audio_play_sound(combo_sfx, 1, false);
-    last_combo_sound = combo; // remember the last combo that triggered the sound
+    last_combo_sound = global.combo; // remember the last combo that triggered the sound
 }
 
 // set multiplier
-if (combo >= 15) {
+if (global.combo >= 15) {
     global.mult = 2;
-} else if (combo >= 10) {
+} else if (global.combo >= 10) {
     global.mult = 1.5;
-} else if (combo >= 5) {
+} else if (global.combo >= 5) {
     global.mult = 1.25;
 } else {
     global.mult = 1;
