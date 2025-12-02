@@ -1,0 +1,1 @@
+room_goto(choose(Lvl1_X, Lvl1_big_star, Lvl1_spike, Lvl1_pinballception))
