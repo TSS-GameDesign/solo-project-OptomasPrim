@@ -8,3 +8,5 @@ global.quota_met = false
 global.combo = 0
 global.monay = 0
 global.lvl_1 = [Lvl1_X, Lvl1_big_star, Lvl1_spike, Lvl1_pinballception]
+global.lvl = 0
+global.lvl_2 = [lvl2_split]
