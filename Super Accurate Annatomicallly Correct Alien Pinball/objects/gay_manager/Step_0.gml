@@ -3,14 +3,14 @@ if room == main_menu{
 }
 
 if (room == main_menu) {
-	if (!audio_is_playing(menu_theme)) {
+	if (!audio_is_playing(new_menu_theme)) {
 		audio_stop_all()
-        audio_play_sound(menu_theme, 1, true);
+        audio_play_sound(new_menu_theme, 1, true);
     }
 }
 
-if (audio_is_playing(menu_theme)) && (room != main_menu){
-	audio_stop_sound(menu_theme)
+if (audio_is_playing(new_menu_theme)) && (room != main_menu){
+	audio_stop_sound(new_menu_theme)
 }
 
 if room == global.lvl_1 {

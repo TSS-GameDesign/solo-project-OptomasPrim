@@ -32,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"box",
-    "path":"sprites/box/box.yy",
+    "name":"Sprite30",
+    "path":"sprites/Sprite30/Sprite30.yy",
   },
   "spriteMaskId":null,
   "visible":true,
